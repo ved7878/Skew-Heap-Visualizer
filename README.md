@@ -14,7 +14,7 @@ The Skew Heap Visualizer is a web-based project that enables users to visualize 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/ved7878/skew-heap-visualizer.git
+    git clone https://github.com/ved7878/Skew-Heap-Visualizer.git
     ```
 
 2. **Navigate to the project directory.**
